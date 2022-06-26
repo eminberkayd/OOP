@@ -1,2 +1,2 @@
 # OOP
-Project that I made using OOP principles
+Projects that I made using OOP principles
